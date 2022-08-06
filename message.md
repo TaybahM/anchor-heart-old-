@@ -32,6 +32,7 @@ return true; }
 </td> </tr> <tr> <td>
 * - required fields
 </td> <td>
+ <div style="float:right"><a href="https://www.100forms.com" id="lnk100" title="form to email">form to email</a></div>
 <input name="skip_Submit" type="submit" value="Submit" />
 <script src="https://www.100forms.com/js/FORMKEY:NREDFMLU5T7J/SEND:annahewi@me.com" type="text/javascript"></script>
 </td> </tr>
