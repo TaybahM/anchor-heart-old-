@@ -26,4 +26,4 @@ Or email annahewi@me.com
 Email annahewi@me.com or text on Whatsapp: 301-219-5519
 
 #### Questions? 
-[Send us a message](./contact_page.html)
+[Send us a message](./message.html)
