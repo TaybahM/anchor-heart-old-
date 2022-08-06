@@ -15,7 +15,7 @@ The buddy program is a virtual remote from home companship service that offers c
 
 The warmline is a non crisis supportive listening service. Staff on shift will take calls and texts from those who need support. 
 
-### [Contact Us](./contact_page.html)
+### Contact Us
 
 #### *Support & Contact*
 
@@ -24,3 +24,6 @@ Or email annahewi@me.com
 
 #### *Outside of the U.S.?*
 Email annahewi@me.com or text on Whatsapp: 301-219-5519
+
+#### Questions? 
+[Send us a message](./contact_page.html)
