@@ -22,9 +22,6 @@ The warmline is a non crisis supportive listening service. Staff on shift will t
 For more information please call or text 301-219-5519
 Or email annahewi@me.com
 
-#### *Outside of the U.S.?*
-Email annahewi@me.com or text on Whatsapp: 301-219-5519
-
 #### Questions? 
 [Send us a message](./message.html)
 
