@@ -76,9 +76,8 @@ section::after {
 <body>
 
 <header>
-   <p style="text-align: center; font-size: 20px">Welcome to</p>
-</header>
-  <h1>Anchorheart</h1>
+  <h1>Welcome to</h1>
+  <h2>Anchorheart</h2>
   
   <article>
     <p>Anchoheart is a virtutal Remote from home start up volunteer project. It’s a virtual Support network that provides individualized one on one support. Our mission is to promote connection, community, end loneliness and isolation. Anchorheart support buddies are caring individuals that provide virtual non proffesional individualized one on one emotional support and companionship to clients. </p>
