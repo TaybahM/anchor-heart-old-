@@ -122,11 +122,11 @@ section::after {
                             <h5>Quick Contact</h5>
                             <div class="kilimanjaro_single_contact_info">
                                 <h5>Phone:</h5>
-                                <p>+255-255-54 53 52 <br> +255 255 53 52 51</p>
+                                <p>+1 301-219-5519</p>
                             </div>
                             <div class="kilimanjaro_single_contact_info">
                                 <h5>Email:</h5>
-                                <p>support@email.com <br> company@email.com</p>
+                                <p>annahewi@me.com <br> <a href="https://anchor-heart.github.io/message.html">Send us a message</a> </p>
                             </div>
                         </div>
                         <div class="kilimanjaro_part">
