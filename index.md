@@ -229,7 +229,7 @@ function myFunction() {
                         <div class="kilimanjaro_part m-top-15">
                             <h5>Important Links</h5>
                             <ul class="kilimanjaro_links">
-                                <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Terms & Conditions</a></li>
+                                <li><a href="https://anchor-heart.github.io/terms.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Terms & Conditions</a></li>
                                 <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>About Licences</a></li>
                                 <li><a href="https://anchor-heart.github.io/message.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Help & Support</a></li>
                                 <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Careers</a></li>
