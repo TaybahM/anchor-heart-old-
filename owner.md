@@ -44,7 +44,7 @@ html {
 .about-section {
   padding: 50px;
   text-align: center;
-  background-color: #474e5d;
+  background-color: #f2f2f2;
   color: white;
 }
 
@@ -107,7 +107,7 @@ html {
   <div class="text">
     <div class="card">
      <div class="container">
-        <h3>&ensp;</h3>
+        <h4>&ensp;</h4>
         <p class="title">Hello!</p>
         <p>I’m Anna, I’m 36 years old and I live in Maryland. I have been through a lot in my life and I am a very caring person. I want to give back and offer support to those who need it. I started this project because I believe loneliness and isolation are the biggest pandemic we face as human beings. I want to create a sense of community, connection and support.</p> 
 
