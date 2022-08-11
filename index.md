@@ -89,7 +89,6 @@ article {
   padding: 20px;
   width: 100%;
   background-color: #f1f1f1;
-  height: 500px; /* only for demonstration, should be removed */
 }
 
 /* Clear floats after the columns */
@@ -120,11 +119,8 @@ section::after {
     <p>Clients are not the only ones who will receive support. Volunteers will also be able to have community connection and support anytime they need it. Here at Anchorheart we don’t have employees, we have family. If you want to be a part of the Anchorheart family, sign up to be a volunteer or a client.</p>
   </article>
 
-  <h1>The button element - Styled with CSS</h1>
-<p>Change the background color of a button with the background-color property:</p>
-
-<button class="button button1">Green</button>
-<button class="button button2">Blue</button>
+<button class="button button1">Volunteer</button>
+<button class="button button2">Client</button>
 
 <div class="footer-dark">
         <footer class="kilimanjaro_area">
