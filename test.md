@@ -76,8 +76,8 @@ section::after {
 <body>
 
 <header>
- <h1>Welcome to</h1>
- <h2>Anchorheart</h2>
+ <h2>Welcome to</h2>
+ <h1 style="font-size:50px;">Anchorheart</h1>
   </header>
     
   <article>
