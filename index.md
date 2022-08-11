@@ -7,6 +7,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Taybah Mohammad">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 * {
   box-sizing: border-box;
@@ -71,9 +73,118 @@ section::after {
     height: auto;
   }
 }
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
 </style>
 </head>
 <body>
+<div class="topnav" id="myTopnav">
+  <a href="#home" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+
+<div style="padding-left:16px">
+  <h2>Responsive Topnav Example</h2>
+  <p>Resize the browser window to see how it works.</p>
+</div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
 
 <header>
  <h2>Welcome to</h2>
@@ -84,6 +195,12 @@ section::after {
     <p>Anchoheart is a Remote from home start up volunteer project. It’s a virtual support network that provides individualized one on one support. Our mission is to promote connection, community, end loneliness and isolation. Anchorheart support buddies are caring individuals that provide virtual non proffesional individualized emotional support and companionship to clients. </p>
     <p>Clients are not the only ones who will receive support. Volunteers will also be able to have community connection and support anytime they need it. Here at Anchorheart we don’t have employees, we have family. If you want to be a part of the Anchorheart family, sign up to be a volunteer or a client.</p>
   </article>
+
+  <h1>The button element - Styled with CSS</h1>
+<p>Change the background color of a button with the background-color property:</p>
+
+<button class="button button1">Green</button>
+<button class="button button2">Blue</button>
 
 <div class="footer-dark">
         <footer class="kilimanjaro_area">
