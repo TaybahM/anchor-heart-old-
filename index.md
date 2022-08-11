@@ -173,7 +173,7 @@ section::after {
   <a href="https://anchor-heart.github.io/index.html" class="active">Home</a>
   <a href="#news">News</a>
   <a href="https://anchor-heart.github.io/message.html">Contact</a>
-  <a href="#about">Owner</a>
+  <a href="https://anchor-heart.github.io/owner.html">Owner</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
