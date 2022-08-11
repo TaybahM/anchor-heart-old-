@@ -81,8 +81,8 @@ section::after {
   </header>
     
   <article>
-    <p>Anchoheart is a virtutal Remote from home start up volunteer project. It’s a virtual Support network that provides individualized one on one support. Our mission is to promote connection, community, end loneliness and isolation. Anchorheart support buddies are caring individuals that provide virtual non proffesional individualized one on one emotional support and companionship to clients. </p>
-    <p>Clients are not the only ones who will receive support. Volunteers will also be able to have community connection and support anytime they need it. Here at Anchorheart we don’t have employees, we have family. If you wanna be part of the Anchorheart family sign up to be a volunteer or a client.</p>
+    <p>Anchoheart is a Remote from home start up volunteer project. It’s a virtual support network that provides individualized one on one support. Our mission is to promote connection, community, end loneliness and isolation. Anchorheart support buddies are caring individuals that provide virtual non proffesional individualized emotional support and companionship to clients. </p>
+    <p>Clients are not the only ones who will receive support. Volunteers will also be able to have community connection and support anytime they need it. Here at Anchorheart we don’t have employees, we have family. If you want to be a part of the Anchorheart family, sign up to be a volunteer or a client.</p>
   </article>
   <b></b>
   <b></b>
