@@ -143,12 +143,9 @@ section::after {
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <p>© All Rights Reserved by <a href="#">My Footer<i class="fa fa-love"></i></a></p>
+                        <p>© All Rights Reserved by <a href="#">Anchorheart<i class="fa fa-love"></i></a></p>
                     </div>
                 </div>
             </div>
         </div>
     </footer>
-
-
-[old site](./test.html)
