@@ -27,7 +27,7 @@
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: ##f1f1f1;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -170,10 +170,10 @@ section::after {
 
 
 <div class="topnav" id="myTopnav">
-  <a href="#home" class="active">Home</a>
+  <a href="https://anchor-heart.github.io/index.html" class="active">Home</a>
   <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a href="https://anchor-heart.github.io/message.html">Contact</a>
+  <a href="#about">Owner</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
@@ -197,7 +197,7 @@ function myFunction() {
   </header>
     
   <article>
-    <p>Anchoheart is a Remote from home start up volunteer project. It’s a virtual support network that provides individualized one on one support. Our mission is to promote connection, community, end loneliness and isolation. Anchorheart support buddies are caring individuals that provide virtual non proffesional individualized emotional support and companionship to clients. </p>
+    <p>Anchoheart is a remote from home start up volunteer project. It’s a virtual support network that provides individualized one on one support. Our mission is to promote connection, community, end loneliness and isolation. Anchorheart support buddies are caring individuals that provide virtual non proffesional individualized emotional support and companionship to clients. </p>
     <p>Clients are not the only ones who will receive support. Volunteers will also be able to have community connection and support anytime they need it. Here at Anchorheart we don’t have employees, we have family. If you want to be a part of the Anchorheart family, sign up to be a volunteer or a client.</p>
   </article>
 
