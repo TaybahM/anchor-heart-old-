@@ -18,7 +18,6 @@ description: promoting community and ending isolation
   margin: 0;
 }
 
-
 .topnav {
   overflow: hidden;
   background-color: #333;
@@ -78,74 +77,34 @@ html {
   box-sizing: inherit;
 }
 
-.column {
-  float: left;
-  width: 33.3%;
-  margin-bottom: 16px;
-  padding: 0 8px;
-}
-
-.text {
-  float: left;
-  width: 66.3%;
-  margin-bottom: 16px;
-  padding: 0 8px;
-}
-
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  margin: 8px;
-}
-
-.about-section {
-  padding: 50px;
-  text-align: center;
-  background-color: #f2f2f2;
-  color: white;
-}
-
-.container {
-  padding: 0 16px;
-}
-
-.container::after, .row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.title {
-  color: grey;
-}
-
-.button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-}
-
-.button:hover {
-  background-color: #555;
-}
-
-@media screen and (max-width: 650px) {
-  .column {
-    width: 100%;
-    display: block;
-  }
-}
-
 </style>
 </head>
 <body>
 
+<div class="topnav" id="myTopnav">
+  <a href="https://anchor-heart.github.io/index.html" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="https://anchor-heart.github.io/message.html">Contact</a>
+  <a href="#about">Owner</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+<div>
 <h2>Let's chat"</h2>
+</div>
 <form action="//submit.form" id="ContactUs100" method="post" onsubmit="return ValidateForm(this);">
 <script type="text/javascript">
 function ValidateForm(frm) {
