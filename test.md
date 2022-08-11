@@ -125,7 +125,8 @@ section::after {
                             </div>
                             <div class="kilimanjaro_single_contact_info">
                                 <h5>Email:</h5>
-                                <p>annahewi@me.com <br> <a href="https://anchor-heart.github.io/message.html">Send us a message</a> </p>
+                                <p>annahewi@me.com </p>
+                              <p style="color:blue;"> <a href="https://anchor-heart.github.io/message.html">  Send us a message</a></p>
                             </div>
                         </div>
                         <div class="kilimanjaro_part">
