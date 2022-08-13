@@ -172,12 +172,6 @@ section::after {
   }
 }
 
-.container {
-  height: 200px;
-  position: relative;
-  border: 3px solid green;
-}
-
 .vertical-center {
   margin: 0;
   position: absolute;
@@ -215,7 +209,7 @@ function myFunction() {
   
   
 <header>
- <h1>Become a Volunteer</h1>
+ <h1 style="font-size:50px;">Become a Volunteer</h1>
 </header>
 
 
@@ -230,7 +224,7 @@ function myFunction() {
   </article>
 <hr class="rounded">
 <article>
-    <h2>Volunteer Agreements</h2>
+    <h2 id="agreements">Volunteer Agreements</h2>
         <ul>
             <li>I agree to respect all volunteers and clients at all times. I understand that any derogatory rude or crude behavior will not be tolerated.</li>
             <li>I agree to be reliable and committed to my volunteer work. I will do what I say and I will do and only commit to things I know I can handle.</li>
@@ -244,10 +238,8 @@ function myFunction() {
         </ul> 
 </article> 
 
-<div class="container">
-  <div class="vertical-center">
-    <button class="button button1">Form</button>
-  </div>
+<div class="vertical-center">
+  <button class="button button1">Form</button>
 </div>
 
   <div class="footer-clean">
