@@ -204,67 +204,45 @@ function myFunction() {
 <button class="button button1">Volunteer</button>
 <button class="button button2">Client</button>
 
-<div class="footer-dark">
-        <footer class="kilimanjaro_area">
-        <!-- Top Footer Area Start -->
-            <b></b>
-            <b></b>
-        <div class="foo_top_header_one section_padding_100_70">
+  <div class="footer-clean">
+        <footer>
             <div class="container">
-                <div class="row">
-                    <div class="col-12 col-md-6 col-lg-3">
-                        <div class="kilimanjaro_part">
-                            <h5>About Us</h5>
-                            <p>It includes rich features & contents. It's designed & developed based on One Page/ Multi-page Layout,blog themes,world press themes and blogspot. You can use any layout from any demo anywhere.</p>
-                            <p>Our company is completely creative, clean & 100% responsive website. Put your business into next level with us.</p>
-                        </div>
-                        <div class="kilimanjaro_part m-top-15">
-                          
-                        </div>
+                <div class="row justify-content-center">
+                    <div class="col-sm-4 col-md-3 item">
+                        <h3>About</h3>
+                        <ul>
+                            <li><a href="#">Owner</a></li>
+                            <li><a href="#">What We Do</a></li>
+                            <li><a href="#"></a>FAQ</li>
+                        </ul>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-3">
+                    <div class="col-sm-4 col-md-3 item">
+                        <h3>Join Us</h3>
+                        <ul>
+                            <li><a href="#">Volunteer</a></li>
+                            <li><a href="#">Client</a></li>
+                            <li><a href="#"></a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-4 col-md-3 item">
+                        <h3>Other</h3>
+                        <ul>
+                            <li><a href="#">Terms & Conditions</a></li>
+                            <li><a href="#">Questions & Feedback</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 item social"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a>
+                        <p class="copyright">Anchorheart © 2022</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
+</body>
 
-                        <div class="kilimanjaro_part m-top-15">
-                            <h5>Important Links</h5>
-                            <ul class="kilimanjaro_links">
-                                <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Terms & Conditions</a></li>
-                                <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>About Licences</a></li>
-                                <li><a href="https://anchor-heart.github.io/message.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Help & Support</a></li>
-                                <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Careers</a></li>
-                                <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Privacy Policy</a></li>
-                                <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>FAQ</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md- col-lg-3">
-                        <div class="kilimanjaro_part">
-                            <h5>Quick Contact</h5>
-                            <div class="kilimanjaro_single_contact_info">
-                                <h5>Phone:</h5>
-                                <p>+1 301-219-5519</p>
-                            </div>
-                            <div class="kilimanjaro_single_contact_info">
-                                <h5>Email:</h5>
-                                <p>annahewi@me.com </p>
-                              <p style="color:blue;"> <a href="https://anchor-heart.github.io/message.html">  Send us a message</a></p>
-                            </div>
-                        </div>
-                        <div class="kilimanjaro_part">
-                         
-                            
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Footer Bottom Area Start -->
-        <div class=" kilimanjaro_bottom_header_one section_padding_50 text-center">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <p>© All Rights Reserved by <a href="#">Anchorheart<i class="fa fa-love"></i></a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+</html>
+
+<!-- Credit to https://epicbootstrap.com/snippets/footer-with-columns -->
