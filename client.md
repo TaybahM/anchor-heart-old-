@@ -171,21 +171,6 @@ section::after {
     height: auto;
   }
 }
-
-.container {
-  height: 200px;
-  position: relative;
-  border: 3px solid green;
-}
-
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-
 </style>
 </head>
 <body>
@@ -215,20 +200,23 @@ function myFunction() {
   
   
 <header>
- <h1>Become a Volunteer</h1>
+ <h1>Become a Client</h1>
 </header>
 
 
  <article>
- <h2>What Does an Anchorheart Volunteer Do?</h2>
-    <p>Volunteers answer texts, calls, video chats or emails from clients who are in need of support, bringing them comfort and friendship.</p>
+ <h2>How it Works?</h2>
+    <p>Get in contact with our staff to schedule a chat with one of our Anchorheart volunteers. The volunteer will help you get the support you need.</p>
+    <p><solid>The volunteers are trained to assit you, they are not professionals. They can provide support, but not medical advice.<solid></p>
 </article>
 <hr class="rounded">
-<article>
-<h2>How do I Become a Volunteer?</h2>
-    <p> It all begins with orientation & training. New volunteers will have an orientation session where they will learn the necessary skills to assist clients. Traning can be done anywhere, our orientation is designed to make sure you walk away with skills like collaborative problem solving, reflective listening and greater communication.</p>
-  </article>
+    <article>
+        <h2>How do I Become a Client?</h2>
+            <p>Text +1 301-219-5519 or Email annahewi@me.com</p>
+    </article>
+
 <hr class="rounded">
+
 <article>
     <h2>Volunteer Agreements</h2>
         <ul>
@@ -244,11 +232,8 @@ function myFunction() {
         </ul> 
 </article> 
 
-<div class="container">
-  <div class="vertical-center">
-    <button class="button button1">Form</button>
-  </div>
-</div>
+<button onclick="https://anchor-heart.github.io/volunteer.html" class="button button1">Volunteer</button>
+<button class="button button2">Client</button>
 
   <div class="footer-clean">
         <footer>

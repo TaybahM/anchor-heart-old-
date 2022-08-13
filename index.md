@@ -209,7 +209,7 @@ function myFunction() {
     <p>Clients are not the only ones who will receive support. Volunteers will also be able to have community connection and support anytime they need it. Here at Anchorheart we don’t have employees, we have family. If you want to be a part of the Anchorheart family, sign up to be a volunteer or a client.</p>
   </article>
 
-<button class="button button1">Volunteer</button>
+<button onclick="window.location.href='https://anchor-heart.github.io/volunteer.html';" class="button button1">Volunteer</button>
 <button class="button button2">Client</button>
 
   <div class="footer-clean">
@@ -227,8 +227,8 @@ function myFunction() {
                     <div class="col-sm-4 col-md-3 item">
                         <h3>Join Us</h3>
                         <ul>
-                            <li><a href="https://anchor-heart.github.io/Volunteer.html">Volunteer</a></li>
-                            <li><a href="#">Client</a></li>
+                            <li><a href="https://anchor-heart.github.io/volunteer.html">Volunteer</a></li>
+                            <li><a href="https://anchor-heart.github.io/client.html">Client</a></li>
                             <li><a href="#"></a></li>
                         </ul>
                     </div>
