@@ -209,6 +209,7 @@ function myFunction() {
     <p>Get in contact with our staff to schedule a chat with one of our Anchorheart volunteers. The volunteer will help you get the support you need.</p>
     <p><b>The volunteers are trained to assit you, they are not professionals. They can provide support, but not medical advice.</b></p>
 </article>
+
 <hr class="rounded">
     <article>
         <h2>How do I Become a Client?</h2>
@@ -216,7 +217,6 @@ function myFunction() {
     </article>
 
 <hr class="rounded" size="50px">
-
 <article>
     <h2 id="agreements">Client Agreements</h2>
         <ul>

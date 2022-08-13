@@ -209,6 +209,7 @@ function myFunction() {
  <h2>What Does an Anchorheart Volunteer Do?</h2>
     <p>Volunteers answer texts, calls, video chats or emails from clients who are in need of support, bringing them comfort and friendship.</p>
 </article>
+
 <hr class="rounded">
 <article>
 <h2>How do I Become a Volunteer?</h2>
@@ -216,7 +217,6 @@ function myFunction() {
   </article>
 
 <hr class="rounded">
-
 <article>
     <h2 id="agreements">Volunteer Agreements</h2>
         <ul>
@@ -252,7 +252,7 @@ function myFunction() {
                         <h3>Join Us</h3>
                         <ul>
                             <li><a href="https://anchor-heart.github.io/volunteer.html">Volunteer</a></li>
-                            <li><a href="#">Client</a></li>
+                            <li><a href="https://anchor-heart.github.io/client.html">Client</a></li>
                             <li><a href="#"></a></li>
                         </ul>
                     </div>
@@ -275,3 +275,5 @@ function myFunction() {
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
+<!-- Credit to https://epicbootstrap.com/snippets/footer-with-columns -->
