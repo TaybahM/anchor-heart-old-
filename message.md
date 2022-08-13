@@ -85,7 +85,7 @@ html {
   <a href="https://anchor-heart.github.io/index.html" class="active">Home</a>
   <a href="#news">News</a>
   <a href="https://anchor-heart.github.io/message.html">Contact</a>
-  <a href="#about">Owner</a>
+  <a href="https://anchor-heart.github.io/owner.html">Owner</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
@@ -103,7 +103,8 @@ function myFunction() {
 </script>
 
 <div>
-<h2>Let's chat"</h2>
+  <h4>&ensp;</h4>
+<h2>Let's chat</h2>
 </div>
 <form action="//submit.form" id="ContactUs100" method="post" onsubmit="return ValidateForm(this);">
 <script type="text/javascript">
