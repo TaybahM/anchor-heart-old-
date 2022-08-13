@@ -233,7 +233,7 @@ function myFunction() {
 </article> 
 
 <div align="center">
-<button on-click="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSegmA9pLJcYQhEUsArYWLoecR2gXB7oIZsqorhiw_RpS7De4A/viewform'" class="button button1">Form</button>
+<button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSegmA9pLJcYQhEUsArYWLoecR2gXB7oIZsqorhiw_RpS7De4A/viewform';" class="button button1">Form</button>
 </div>
 
   <div class="footer-clean">
