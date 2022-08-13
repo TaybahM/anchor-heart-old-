@@ -200,7 +200,7 @@ function myFunction() {
   
   
 <header>
- <h1>Become a Client</h1>
+ <h1 style="font-size:50px;">Become a Client</h1>
 </header>
 
 
