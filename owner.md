@@ -170,7 +170,7 @@ function myFunction() {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://github.com/anchor-heart/anchor-heart.github.io/blob/main/unnamed.jpg?raw=true" alt="Jane"  style="width:100%" height="100%">
+      <img src="https://github.com/anchor-heart/anchor-heart.github.io/blob/main/images/unnamed.jpg?raw=true" alt="Jane"  style="width:100%" height="100%">
       <div class="container">
         <h2>Anna Hewitt</h2>
         <p class="title">Owner & Founder</p>
