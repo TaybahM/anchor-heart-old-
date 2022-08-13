@@ -200,14 +200,24 @@ function myFunction() {
   
   
 <header>
- <h2>Welcome to</h2>
- <h1 style="font-size:50px;">Anchorheart</h1>
-  </header>
-    
-  <article>
-    <p>Anchoheart is a remote from home start up volunteer project. It’s a virtual support network that provides individualized one on one support. Our mission is to promote connection, community, end loneliness and isolation. Anchorheart support buddies are caring individuals that provide virtual non proffesional individualized emotional support and companionship to clients. </p>
-    <p>Clients are not the only ones who will receive support. Volunteers will also be able to have community connection and support anytime they need it. Here at Anchorheart we don’t have employees, we have family. If you want to be a part of the Anchorheart family, sign up to be a volunteer or a client.</p>
+ <h2>Become an Anchorheart Volunteer</h2>
+</header>
+
+
+ <article>
+ <h1>What Does an Anchorheart Volunteer Do?</h1>
+    <p>Volunteers answer texts, calls, video chats or emails from clients who are in need of support, bringing them comfort and friendship. <img align="right" src="https://image.shutterstock.com/image-vector/sample-stamp-rubber-style-red-260nw-1811246308.jpg" alt="sample image"  style="width:100%" height="100%"></p>
+</article>
+<article>
+<h1>How do I Become a Volunteer?</h1>
+    <p> It all begins with orientation & training. New volunteers will have an orientation session where they will learn the necessary skills to assist clients. Traning can be done anywhere, our orientation is designed to make sure you walk away with skills like collaborative problem solving, reflective listening and greater communication.</p>
   </article>
+
+<ul>
+  <li>I agree to respect all volunteers and clients at all times. I understand that any derogatory rude or crude behavior not be tolerated</li>
+  <li>I agree to be reliable and committed to my volunteer work. I will do what I say I will do and only commit to things I know I can handle</li>
+  <li>I agree that If there is a scheduled meeting I will let whoever I’m meeting with know If I’m gonna be late or not be able to show up</li>
+</ul>  
 
 <button class="button button1">Volunteer</button>
 <button class="button button2">Client</button>
@@ -227,7 +237,7 @@ function myFunction() {
                     <div class="col-sm-4 col-md-3 item">
                         <h3>Join Us</h3>
                         <ul>
-                            <li><a href="https://anchor-heart.github.io/Volunteer.html">Volunteer</a></li>
+                            <li><a href="#">Volunteer</a></li>
                             <li><a href="#">Client</a></li>
                             <li><a href="#"></a></li>
                         </ul>
@@ -251,5 +261,3 @@ function myFunction() {
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-
-<!-- Credit to https://epicbootstrap.com/snippets/footer-with-columns -->
