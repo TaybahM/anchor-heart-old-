@@ -200,24 +200,27 @@ function myFunction() {
   
   
 <header>
- <h2>Become an Anchorheart Volunteer</h2>
+ <h2>Become a Volunteer</h2>
 </header>
 
 
  <article>
- <h1>What Does an Anchorheart Volunteer Do?</h1>
-    <p>Volunteers answer texts, calls, video chats or emails from clients who are in need of support, bringing them comfort and friendship. <img align="right" src="https://image.shutterstock.com/image-vector/sample-stamp-rubber-style-red-260nw-1811246308.jpg" alt="sample image"  style="width:100%" height="100%"></p>
+ <h2>What Does an Anchorheart Volunteer Do?</h2>
+    <p>Volunteers answer texts, calls, video chats or emails from clients who are in need of support, bringing them comfort and friendship. <img align="right" src="https://image.shutterstock.com/image-vector/sample-stamp-rubber-style-red-260nw-1811246308.jpg" alt="sample image"  style="width:50%" height="50%"></p>
 </article>
+<hr class="rounded">
 <article>
-<h1>How do I Become a Volunteer?</h1>
+<h2>How do I Become a Volunteer?</h2>
     <p> It all begins with orientation & training. New volunteers will have an orientation session where they will learn the necessary skills to assist clients. Traning can be done anywhere, our orientation is designed to make sure you walk away with skills like collaborative problem solving, reflective listening and greater communication.</p>
   </article>
-
+<hr class="rounded">
+<article>
 <ul>
   <li>I agree to respect all volunteers and clients at all times. I understand that any derogatory rude or crude behavior not be tolerated</li>
   <li>I agree to be reliable and committed to my volunteer work. I will do what I say I will do and only commit to things I know I can handle</li>
   <li>I agree that If there is a scheduled meeting I will let whoever I’m meeting with know If I’m gonna be late or not be able to show up</li>
-</ul>  
+</ul> 
+</article> 
 
 <button class="button button1">Volunteer</button>
 <button class="button button2">Client</button>

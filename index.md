@@ -227,7 +227,7 @@ function myFunction() {
                     <div class="col-sm-4 col-md-3 item">
                         <h3>Join Us</h3>
                         <ul>
-                            <li><a href="https://anchor-heart.github.io/Volunteer.html">Volunteer</a></li>
+                            <li><a href="https://anchor-heart.github.io/Volunteer.html">volunteer</a></li>
                             <li><a href="#">Client</a></li>
                             <li><a href="#"></a></li>
                         </ul>
