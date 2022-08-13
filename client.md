@@ -218,22 +218,19 @@ function myFunction() {
 <hr class="rounded">
 
 <article>
-    <h2>Volunteer Agreements</h2>
+    <h2 id="agreements">Client Agreements</h2>
         <ul>
             <li>I agree to respect all volunteers and clients at all times. I understand that any derogatory rude or crude behavior will not be tolerated.</li>
-            <li>I agree to be reliable and committed to my volunteer work. I will do what I say and I will do and only commit to things I know I can handle.</li>
-            <li>I agree that If there is a scheduled meeting I will let whoever I’m meeting with know If I’m gonna be late or uable to show up.</li>
-            <li>I agree to respond to any texts emails or calls from the owner and founder in a timely manner. I understand not responding or delayed responses without reasonable explaination will not be tolerated.</li>
-            <li>I agree to keep all conversations and contact information confidential.</li>
-            <li>I agree to speak up if I have any questions or ideas or concerns.</li>
-            <li>I agree to let the owner and founder know if I need a self care break, time off or no longer wish to volunteer.</li>
-            <li>I understand that I am not a professional and I am not providing a professional service. Thus I agree to not give any sort of feedback or advice That would be seen as me acting as a professional.</li>
-            <li>I agree to speak up let the the owner and founder know if I have any problems with another volunteer.</li> 
+            <li>I understand that the volunteers are not professionals. I agree to not treat them like professionals. I agree that I will treat them like support friends.</li>
+            <li>I understand that the support I receive is based on my individual needs and I agree to ask for what I truly want and need.</li>
+            <li>I agree to speak up if I have any questions, ideas or concerns.</li>
+            <li>I agree to let the the owner and founder know if I have a problem with a volunteer or client, want to switch who my support buddy is or no longer wish to be a client.</li>
         </ul> 
 </article> 
 
-<button onclick="https://anchor-heart.github.io/volunteer.html" class="button button1">Volunteer</button>
-<button class="button button2">Client</button>
+<div>
+<button on-click="https://docs.google.com/forms/d/e/1FAIpQLSfV7nt3ZnkWt93LNn3BzAy0DS60glPoKHDrtV9xYKqpdZCVqQ/viewform" class="button button1">Form</button>
+</div>
 
   <div class="footer-clean">
         <footer>

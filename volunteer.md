@@ -172,14 +172,6 @@ section::after {
   }
 }
 
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-
 </style>
 </head>
 <body>
@@ -222,7 +214,9 @@ function myFunction() {
 <h2>How do I Become a Volunteer?</h2>
     <p> It all begins with orientation & training. New volunteers will have an orientation session where they will learn the necessary skills to assist clients. Traning can be done anywhere, our orientation is designed to make sure you walk away with skills like collaborative problem solving, reflective listening and greater communication.</p>
   </article>
+  
 <hr class="rounded">
+
 <article>
     <h2 id="agreements">Volunteer Agreements</h2>
         <ul>
@@ -238,8 +232,8 @@ function myFunction() {
         </ul> 
 </article> 
 
-<div class="vertical-center">
-  <button class="button button1">Form</button>
+<div>
+<button on-click="https://docs.google.com/forms/d/e/1FAIpQLSegmA9pLJcYQhEUsArYWLoecR2gXB7oIZsqorhiw_RpS7De4A/viewform" class="button button1">Form</button>
 </div>
 
   <div class="footer-clean">
