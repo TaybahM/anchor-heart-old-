@@ -207,7 +207,7 @@ function myFunction() {
  <article>
  <h2>How it Works?</h2>
     <p>Get in contact with our staff to schedule a chat with one of our Anchorheart volunteers. The volunteer will help you get the support you need.</p>
-    <p><solid>The volunteers are trained to assit you, they are not professionals. They can provide support, but not medical advice.<solid></p>
+    <p><b>The volunteers are trained to assit you, they are not professionals. They can provide support, but not medical advice.</b></p>
 </article>
 <hr class="rounded">
     <article>
@@ -215,7 +215,7 @@ function myFunction() {
             <p>Text +1 301-219-5519 or Email annahewi@me.com</p>
     </article>
 
-<hr class="rounded">
+<hr class="rounded" size="50px">
 
 <article>
     <h2 id="agreements">Client Agreements</h2>
@@ -228,7 +228,7 @@ function myFunction() {
         </ul> 
 </article> 
 
-<div>
+<div align="center">
 <button on-click="https://docs.google.com/forms/d/e/1FAIpQLSfV7nt3ZnkWt93LNn3BzAy0DS60glPoKHDrtV9xYKqpdZCVqQ/viewform" class="button button1">Form</button>
 </div>
 
@@ -269,5 +269,3 @@ function myFunction() {
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
-</body>
-</html>

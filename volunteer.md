@@ -214,7 +214,7 @@ function myFunction() {
 <h2>How do I Become a Volunteer?</h2>
     <p> It all begins with orientation & training. New volunteers will have an orientation session where they will learn the necessary skills to assist clients. Traning can be done anywhere, our orientation is designed to make sure you walk away with skills like collaborative problem solving, reflective listening and greater communication.</p>
   </article>
-  
+
 <hr class="rounded">
 
 <article>
@@ -232,7 +232,7 @@ function myFunction() {
         </ul> 
 </article> 
 
-<div>
+<div align="center">
 <button on-click="https://docs.google.com/forms/d/e/1FAIpQLSegmA9pLJcYQhEUsArYWLoecR2gXB7oIZsqorhiw_RpS7De4A/viewform" class="button button1">Form</button>
 </div>
 
