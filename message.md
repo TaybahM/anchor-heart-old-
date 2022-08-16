@@ -82,7 +82,7 @@ html {
 <body>
 
 <div class="topnav" id="myTopnav">
-  <a href="https://anchor-heart.github.io/index.html" class="active">Home</a>
+  <a href="https://anchor-heart.github.io/index.html>Home</a>
   <a href="#news">News</a>
   <a href="https://anchor-heart.github.io/message.html">Contact</a>
   <a href="https://anchor-heart.github.io/owner.html">Owner</a>
