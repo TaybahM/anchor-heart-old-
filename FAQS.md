@@ -229,6 +229,10 @@ section::after {
   }
 }
 
+p.ex1 {
+  margin: 35px;
+}
+
 </style>
 </head>
 <body>
@@ -260,9 +264,10 @@ function myFunction() {
 <header>
  <h1 style="font-size:50px;">Frequently Asked Questions</h1>
 </header>
+<br></br>
   <p>Anchorheart is a support network that provides individualized one on one support. Read on for more information about our platform, how to become a volunteer and how we're promoting communuty and friendship. Can't find the asnwers to your questions? Email annahewi@me.com.</p>
 
-  <p><a href="https://anchor-heart.github.io/FAQS.md#chatting">Chatting</a>      <a href="https://anchor-heart.github.io/FAQS.md#messaging_apps">Messaging Apps</a></p>
+  <p><a href="https://anchor-heart.github.io/FAQS.html#chatting">Chatting</a>------<a href="https://anchor-heart.github.io/FAQS.html#messaging_apps">Messaging Apps</a>------<a href="https://anchor-heart.github.io/FAQS.html#volunteering">Volunteering</p>
 
 
 <h2 id=chatting class="faq-heading">Chatting</h2>
@@ -304,7 +309,7 @@ function myFunction() {
             </div>
         </section>
 
-<h2 id=messaging_apps class="faq-heading">Chatting</h2>
+<h2 id=messaging_apps class="faq-heading">Messaging Apps</h2>
         <section class="faq-container">
             <div class="faq-one">
                 <!-- faq question -->
@@ -343,6 +348,45 @@ function myFunction() {
             </div>
         </section>
 
+
+<h2 id=volunteering class="faq-heading">Volunteering</h2>
+        <section class="faq-container">
+            <div class="faq-one">
+                <!-- faq question -->
+                <h1 class="faq-page">What is an FAQ Page?</h1>
+                <!-- faq answer -->
+                <div class="faq-body">
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit saepe sequi, illum facere
+                        necessitatibus cum aliquam id illo omnis maxime, totam soluta voluptate amet ut sit ipsum
+                        aperiam.
+                        Perspiciatis, porro!</p>
+                </div>
+            </div>
+            <hr class="hr-line">
+            <div class="faq-two">
+                <!-- faq question -->
+                <h1 class="faq-page">Why do you need an FAQ page?</h1>
+                <!-- faq answer -->
+                <div class="faq-body">
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit saepe sequi, illum facere
+                        necessitatibus cum aliquam id illo omnis maxime, totam soluta voluptate amet ut sit ipsum
+                        aperiam.
+                        Perspiciatis, porro!</p>
+                </div>
+            </div>
+            <hr class="hr-line">
+            <div class="faq-three">
+                <!-- faq question -->
+<h1 class="faq-page">Does it improves the user experience of a website?</h1>
+                <!-- faq answer -->
+                <div class="faq-body">
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit saepe sequi, illum facere
+                        necessitatibus cum aliquam id illo omnis maxime, totam soluta voluptate amet ut sit ipsum
+                        aperiam.
+                        Perspiciatis, porro!</p>
+                </div>
+            </div>
+        </section>
   <div class="footer-clean">
         <footer>
             <div class="container">
@@ -352,7 +396,7 @@ function myFunction() {
                         <ul>
                             <li><a href="https://anchor-heart.github.io/owner.html">Owner</a></li>
                             <li><a href="#">What We Do</a></li>
-                            <li><a href="#">FAQ</a></li>
+                            <li><a href="https://anchor-heart.github.io/FAQS.html">FAQS</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-4 col-md-3 item">

@@ -223,7 +223,7 @@ function myFunction() {
                         <ul>
                             <li><a href="https://anchor-heart.github.io/owner.html">Owner</a></li>
                             <li><a href="#">What We Do</a></li>
-                            <li><a href="#">FAQ</a></li>
+                            <li><a href="https://anchor-heart.github.io/FAQS.html">FAQS</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-4 col-md-3 item">
