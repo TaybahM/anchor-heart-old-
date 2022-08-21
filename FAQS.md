@@ -275,7 +275,7 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-17" style="">
-        <div class="card card-body border-0 p-0">
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
           <p>First you will have a phone call with the owner and founder. Then you will go through the matching process to be matched with a support buddy</p>
         </div>
       </div>
