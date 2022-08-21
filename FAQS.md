@@ -290,7 +290,7 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-18" style="">
-        <div class="card card-body border-0 p-0">
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
           <p>Yes. Volunteers only know what texters share with them, and that information stays between you, unless sharing it with emergency services is absolutely necessary for your safety. We take your confidentiality seriously.</p>
           <p>
           </p>
@@ -307,7 +307,7 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-19" style="">
-        <div class="card card-body border-0 p-0">
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
           <p>You will receive a response fairly quickly to get started. </p>
           <p>
           </p>
@@ -324,7 +324,7 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-20">
-        <div class="card card-body border-0 p-0">
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
           <p>Anchorheart only provides non crisis emotional support as a policy, however if a client is in crisis they will be validated and given crisis resources for further support, and may contact emergency services.</p>
           <p>
           </p>
@@ -341,7 +341,7 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-21">
-        <div class="card card-body border-0 p-0">
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
           <p>You will discuss in the initial call with your support buddy how you can contact them and when.</p>
           <p>
           </p>
@@ -358,7 +358,7 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-22">
-        <div class="card card-body border-0 p-0">
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
           <p>By contacting Anchorheart through messaging apps, users agree to the messaging app’s Terms of Service, as well as Crisis Text Line’s Terms of Service.</p>
           <p>
           </p>
@@ -375,7 +375,7 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-23">
-        <div class="card card-body border-0 p-0">
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
           <p><ol>
   <li>1. Be at least 18 years old</li>
   <li>2. Have access to a private computer with a secure, reliable internet connection</li>
@@ -407,7 +407,7 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-24" style="">
-        <div class="card card-body border-0 p-0">
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
           <p>We are always accepting applications! Apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSegmA9pLJcYQhEUsArYWLoecR2gXB7oIZsqorhiw_RpS7De4A/viewform">here</a>. Following the application, each volunteer is requored to havea phone interview with the owner and founder, that is followed by orientation & training. </p>
         </div>
       </div>
@@ -422,7 +422,7 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-25" style="">
-        <div class="card card-body border-0 p-0">
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
           <p><ol>
   <li>1. Be at least 18 years old</li>
   <li>2. Have access to a private computer with a secure, reliable internet connection</li>
@@ -444,7 +444,7 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-26" style="">
-        <div class="card card-body border-0 p-0">
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
           <p>The time commitment is flexible and based on the volunteer’s schedule. A minumum 1 hour per week is required.</p>
           <p>
           </p>
@@ -461,7 +461,7 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-27">
-        <div class="card card-body border-0 p-0">
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
           <p>Yes, as long as the school is aware that Anchoheart is not an official government non profit.</p>
           <p>
           </p>
@@ -478,7 +478,7 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-28">
-        <div class="card card-body border-0 p-0">
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
           <p>At first volunteers are monitored closely and checked on. Later on they are able to work independantly. Check in as needed and attend individual and group meetings or support hang outs.</p>
           <p>
           </p>
@@ -495,8 +495,8 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-29">
-        <div class="card card-body border-0 p-0">
-          <p>The best time to call is 24/7! We are always available to answer any questions.</p>
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
+          <p>Volunteers have orientation and training by phone one on one with the owner and founder at a time that is convenient for them.</p>
           <p>
           </p>
         </div>
@@ -512,7 +512,7 @@ function myFunction() {
         </div>
       </a>
       <div class="collapse" id="faq-30">
-        <div class="card card-body border-0 p-0">
+        <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
           <p>Volunteers must sign and follow the volunteer form, a non disclosure agreement and the guidance given during the orientation and training</p>
           <p>
           </p>
