@@ -364,7 +364,7 @@ function myFunction() {
           </p>
         </div>
       </div>
-      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary  border-top" aria-controls="faq-22" aria-expanded="false" data-toggle="collapse" href="#faq-22" role="button">
+      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary  border-top" aria-controls="faq-23" aria-expanded="false" data-toggle="collapse" href="#faq-23" role="button">
         <div class="position-relative">
           <h2 class="h4 m-0 pr-3">
             What are the client requirements?
@@ -374,7 +374,7 @@ function myFunction() {
           </div>
         </div>
       </a>
-      <div class="collapse" id="faq-22">
+      <div class="collapse" id="faq-23">
         <div class="card card-body border-0 p-0">
           <p><ol>
   <li>1. Be at least 18 years old</li>
@@ -396,7 +396,7 @@ function myFunction() {
   </div>
   <section class="container my-5" id="maincontent">
     <section id="accordion">
-      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary border-top" aria-controls="faq-17" aria-expanded="false" data-toggle="collapse" href="#faq-17" role="button">
+      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary border-top" aria-controls="faq-24" aria-expanded="false" data-toggle="collapse" href="#faq-24" role="button">
         <div class="position-relative">
           <h2 class="h4 m-0 pr-3">
             How can I become an Anchorheart volunteer?
@@ -406,12 +406,12 @@ function myFunction() {
           </div>
         </div>
       </a>
-      <div class="collapse" id="faq-17" style="">
+      <div class="collapse" id="faq-24" style="">
         <div class="card card-body border-0 p-0">
           <p>We are always accepting applications! Apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSegmA9pLJcYQhEUsArYWLoecR2gXB7oIZsqorhiw_RpS7De4A/viewform">here</a>. Following the application, each volunteer is requored to havea phone interview with the owner and founder, that is followed by orientation & training. </p>
         </div>
       </div>
-      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary border-top" aria-controls="faq-18" aria-expanded="false" data-toggle="collapse" href="#faq-18" role="button">
+      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary border-top" aria-controls="faq-25" aria-expanded="false" data-toggle="collapse" href="#faq-25" role="button">
         <div class="position-relative">
           <h2 class="h4 m-0 pr-3">
              What are the volunteer requirements?
@@ -421,7 +421,7 @@ function myFunction() {
           </div>
         </div>
       </a>
-      <div class="collapse" id="faq-18" style="">
+      <div class="collapse" id="faq-25" style="">
         <div class="card card-body border-0 p-0">
           <p><ol>
   <li>1. Be at least 18 years old</li>
@@ -433,7 +433,7 @@ function myFunction() {
           </p>
         </div>
       </div>
-      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary border-top" aria-controls="faq-19" aria-expanded="false" data-toggle="collapse" href="#faq-19" role="button">
+      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary border-top" aria-controls="faq-26" aria-expanded="false" data-toggle="collapse" href="#faq-26" role="button">
         <div class="position-relative">
           <h2 class="h4 m-0 pr-3">
             What is the time commitment?
@@ -443,14 +443,14 @@ function myFunction() {
           </div>
         </div>
       </a>
-      <div class="collapse" id="faq-19" style="">
+      <div class="collapse" id="faq-26" style="">
         <div class="card card-body border-0 p-0">
           <p>The time commitment is flexible and based on the volunteer’s schedule. A minumum 1 hour per week is required.</p>
           <p>
           </p>
         </div>
       </div>
-      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary  border-top" aria-controls="faq-20" aria-expanded="false" data-toggle="collapse" href="#faq-20" role="button">
+      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary  border-top" aria-controls="faq-27" aria-expanded="false" data-toggle="collapse" href="#faq-27" role="button">
         <div class="position-relative">
           <h2 class="h4 m-0 pr-3">
             Can I volunteer for school credit?
@@ -460,7 +460,7 @@ function myFunction() {
           </div>
         </div>
       </a>
-      <div class="collapse" id="faq-20">
+      <div class="collapse" id="faq-27">
         <div class="card card-body border-0 p-0">
           <p>Yes, as long as the school is aware that Anchoheart is not an official government non profit.</p>
           <p>
