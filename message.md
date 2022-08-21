@@ -82,9 +82,9 @@ html {
 <body>
 
 <div class="topnav" id="myTopnav">
-  <a href="https://anchor-heart.github.io/index.html>Home</a>
+  <a href="https://anchor-heart.github.io/index.html">Home</a>
   <a href="#Learn">Learn</a>
-  <a href="https://anchor-heart.github.io/message.html">Contact</a>
+  <a href="https://anchor-heart.github.io/message.html" class="active">Contact</a>
   <a href="https://anchor-heart.github.io/owner.html">Owner</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
