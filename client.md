@@ -239,16 +239,13 @@ function myFunction() {
         </ul> 
 </article> 
 
-<div align="center">
-<button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSfV7nt3ZnkWt93LNn3BzAy0DS60glPoKHDrtV9xYKqpdZCVqQ/viewform';" class="button button1">Form</button>
-</div>
 
 <div class="center hideform">
     <button id="close" style="float: right;">Hide</button>
     <p><b>DISCLAIMER:</b> The volunteers of Anchorheart are not professionals of any kind. We offer non crisis emotional support and companionship. If you are in crisis or need a licensed professional, please find professionals or crisis resources. Opinions expressed by volunteers aren’t necessarily the view or mission of Anchorheart.</p>
-    <button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSfV7nt3ZnkWt93LNn3BzAy0DS60glPoKHDrtV9xYKqpdZCVqQ/viewform';" >I Understand & I wish to proceed</button>
+    <button align="center" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSfV7nt3ZnkWt93LNn3BzAy0DS60glPoKHDrtV9xYKqpdZCVqQ/viewform';" >I Understand & I wish to proceed</button>
 </div>
-<button id="show" align="center" class="button button1" >DISCLAIMER</button>
+<button id="show" align="center" class="button button1" >Form</button>
 <script>
 $('#show').on('click', function () {
     $('.center').show();
@@ -261,9 +258,6 @@ $('#close').on('click', function () {
 })
 </script>
 
-<div align="center">
-<button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSfV7nt3ZnkWt93LNn3BzAy0DS60glPoKHDrtV9xYKqpdZCVqQ/viewform';" class="button button1">Form</button>
-</div>
 
   <div class="footer-clean">
         <footer>
