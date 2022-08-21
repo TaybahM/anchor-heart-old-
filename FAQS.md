@@ -467,7 +467,7 @@ function myFunction() {
           </p>
         </div>
       </div>
-      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary  border-top" aria-controls="faq-21" aria-expanded="false" data-toggle="collapse" href="#faq-21" role="button">
+      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary  border-top" aria-controls="faq-28" aria-expanded="false" data-toggle="collapse" href="#faq-28" role="button">
         <div class="position-relative">
           <h2 class="h4 m-0 pr-3">
             Are volunteers supervised?
@@ -477,14 +477,14 @@ function myFunction() {
           </div>
         </div>
       </a>
-      <div class="collapse" id="faq-21">
+      <div class="collapse" id="faq-28">
         <div class="card card-body border-0 p-0">
           <p>At first volunteers are monitored closely and checked on. Later on they are able to work independantly. Check in as needed and attend individual and group meetings or support hang outs.</p>
           <p>
           </p>
         </div>
       </div>
-      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary  border-top" aria-controls="faq-22" aria-expanded="false" data-toggle="collapse" href="#faq-22" role="button">
+      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary  border-top" aria-controls="faq-29" aria-expanded="false" data-toggle="collapse" href="#faq-29" role="button">
         <div class="position-relative">
           <h2 class="h4 m-0 pr-3">
             How are volunteers trained??
@@ -494,14 +494,14 @@ function myFunction() {
           </div>
         </div>
       </a>
-      <div class="collapse" id="faq-22">
+      <div class="collapse" id="faq-29">
         <div class="card card-body border-0 p-0">
           <p>The best time to call is 24/7! We are always available to answer any questions.</p>
           <p>
           </p>
         </div>
       </div>
-      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary  border-top" aria-controls="faq-22" aria-expanded="false" data-toggle="collapse" href="#faq-22" role="button">
+      <a class="py-3 d-block h-100 w-100 position-relative z-index-1 pr-1 text-secondary  border-top" aria-controls="faq-30" aria-expanded="false" data-toggle="collapse" href="#faq-30" role="button">
         <div class="position-relative">
           <h2 class="h4 m-0 pr-3">
             What policies must volunteers follow?
@@ -511,7 +511,7 @@ function myFunction() {
           </div>
         </div>
       </a>
-      <div class="collapse" id="faq-22">
+      <div class="collapse" id="faq-30">
         <div class="card card-body border-0 p-0">
           <p>Volunteers must sign and follow the volunteer form, a non disclosure agreement and the guidance given during the orientation and training</p>
           <p>
