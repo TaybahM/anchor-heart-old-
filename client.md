@@ -17,8 +17,8 @@
 <meta name="author" content="Taybah Mohammad">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<!-- Content for FAQ portion -->
-
+<!-- Content for POPUP  -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <style>
 * {
   box-sizing: border-box;
@@ -173,6 +173,20 @@ section::after {
     height: auto;
   }
 }
+
+<!--popup-->
+
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.hideform {
+    display: none;
+}
+
 </style>
 </head>
 <body>
@@ -212,11 +226,6 @@ function myFunction() {
     <p><b>The volunteers are trained to assit you, they are not professionals. They can provide support, but not medical advice.</b></p>
 </article>
 
-<hr class="rounded">
-    <article>
-        <h2>How do I Become a Client?</h2>
-            <p>Text +1 301-219-5519 or Email annahewi@me.com</p>
-    </article>
 
 <hr class="rounded" size="50px">
 <article>
@@ -233,6 +242,23 @@ function myFunction() {
 <div align="center">
 <button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSfV7nt3ZnkWt93LNn3BzAy0DS60glPoKHDrtV9xYKqpdZCVqQ/viewform';" class="button button1">Form</button>
 </div>
+
+<div class="center hideform">
+    <button id="close" style="float: right;">X</button>
+    <p><b>DISCLAIMER:</b> The volunteers of Anchorheart are not professionals of any kind. We offer non crisis emotional support and companionship. If you are in crisis or need a licensed professional, please find professionals or crisis resources. Opinions expressed by volunteers aren’t necessarily the view or mission of Anchorheart.</p>
+</div>
+<button id="show" class="button button1" >DISCLAIMER</button>
+<script>
+$('#show').on('click', function () {
+    $('.center').show();
+    $(this).hide();
+})
+
+$('#close').on('click', function () {
+    $('.center').hide();
+    $('#show').show();
+})
+</script>
 
   <div class="footer-clean">
         <footer>
