@@ -294,7 +294,6 @@ $('#close').on('click', function () {
                         <ul>
                             <li><a href="https://anchor-heart.github.io/volunteer.html">Volunteer</a></li>
                             <li><a href="https://anchor-heart.github.io/client.html">Client</a></li>
-                            <li><a href="#"></a></li>
                         </ul>
                     </div>
                     <div class="col-sm-4 col-md-3 item">

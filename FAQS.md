@@ -462,7 +462,7 @@ function myFunction() {
       </a>
       <div class="collapse" id="faq-27">
         <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
-          <p>Yes, as long as the school is aware that Anchoheart is not an official government non-profit.</p>
+          <p>Yes, as long as the school is aware that Anchoheart is not an official government nonprofit.</p>
           <p>
           </p>
         </div>
@@ -539,7 +539,6 @@ function myFunction() {
                         <ul>
                             <li><a href="https://anchor-heart.github.io/volunteer.html">Volunteer</a></li>
                             <li><a href="https://anchor-heart.github.io/client.html">Client</a></li>
-                            <li><a href="#"></a></li>
                         </ul>
                     </div>
                     <div class="col-sm-4 col-md-3 item">
