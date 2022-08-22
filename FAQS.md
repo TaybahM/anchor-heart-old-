@@ -462,7 +462,7 @@ function myFunction() {
       </a>
       <div class="collapse" id="faq-27">
         <div style="background-color:#FBFBFB;" class="card card-body border-0 p-0">
-          <p>Yes, as long as the school is aware that Anchoheart is not an official government non profit.</p>
+          <p>Yes, as long as the school is aware that Anchoheart is not an official government non-profit.</p>
           <p>
           </p>
         </div>
