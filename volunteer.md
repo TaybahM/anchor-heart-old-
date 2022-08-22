@@ -262,7 +262,7 @@ function myFunction() {
     <p><b>DISCLAIMER:</b> The volunteers of Anchorheart are not professionals of any kind. We offer non crisis emotional support and companionship. The training and orientation provided does not make you a licenced professional.</p>
     <button class="button button3" align="center" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSfV7nt3ZnkWt93LNn3BzAy0DS60glPoKHDrtV9xYKqpdZCVqQ/viewform';" >I Understand & I Wish to Proceed</button>
     <button class="button button3" align="center" onclick="window.location.href='https://www.apa.org/gradpsych/2004/01/get-licensed';" >I Wish to Seek a Professional License</button>
-    <button id="close" class="button button3" style="float: right;">Hide</button>
+    <button id="close" class="button button3" >Hide</button>
 </div>
 <button id="show" align="center" class="button button3" >Form</button>
 <script>
