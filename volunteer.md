@@ -118,7 +118,7 @@
 .button3 {
   backgrounf-color: white;
   color: black;
-  border: 1px solid #3179cc;
+  border: 2px solid #3179cc;
 }
 
 .button3:hover {
