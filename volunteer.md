@@ -17,6 +17,8 @@
 <meta name="author" content="Taybah Mohammad">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- Content for POPUP  -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <style>
 * {
   box-sizing: border-box;
@@ -182,6 +184,18 @@ section::after {
     height: auto;
   }
 }
+<!--popup-->
+
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.hideform {
+    display: none;
+}
 
 </style>
 </head>
@@ -242,10 +256,6 @@ function myFunction() {
             <li>I agree to speak up let the the owner and founder know if I have any problems with another volunteer.</li> 
         </ul> 
 </article> 
-
-<div align="center">
-<button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSegmA9pLJcYQhEUsArYWLoecR2gXB7oIZsqorhiw_RpS7De4A/viewform';" class="button button1">Form</button>
-</div>
 
 <center>
 <div class="center hideform">
