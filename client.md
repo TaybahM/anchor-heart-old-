@@ -115,6 +115,17 @@
   color: white;
 }
 
+.button3 {
+  backgrounf-color: white;
+  color: black;
+  border: 1px solid #3179cc;
+}
+
+.button3:hover {
+  background-color: #3179CC;
+  color: white;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -241,11 +252,11 @@ function myFunction() {
 
 <center>
 <div class="center hideform">
-    <button id="close" class="button button1" style="float: right;">Hide</button>
+    <button id="close" class="button button3" style="float: right;">Hide</button>
     <p><b>DISCLAIMER:</b> The volunteers of Anchorheart are not professionals of any kind. We offer non crisis emotional support and companionship. If you are in crisis or need a licensed professional, please find professionals or crisis resources. Opinions expressed by volunteers aren’t necessarily the view or mission of Anchorheart.</p>
-    <button class="button button1" align="center" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSfV7nt3ZnkWt93LNn3BzAy0DS60glPoKHDrtV9xYKqpdZCVqQ/viewform';" >I Understand & I wish to proceed</button>
+    <button class="button button3" align="center" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSfV7nt3ZnkWt93LNn3BzAy0DS60glPoKHDrtV9xYKqpdZCVqQ/viewform';" >I Understand & I wish to proceed</button>
 </div>
-<button id="show" align="center" class="button button1" >Form</button>
+<button id="show" align="center" class="button button3" >Form</button>
 <script>
 $('#show').on('click', function () {
     $('.center').show();
