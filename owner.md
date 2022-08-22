@@ -187,7 +187,7 @@ function myFunction() {
 
 <h4>Disclaimer: I am not a professional of any kind. I am just a caring human being that wants to make a difference in the world.</h4>
         <p>annahewi@me.com</p>
-        <p><button class="button" onclick="location.href='mailto:annahewi@me.com';">Contact</button></p>
+        <p><button class="button" onclick= "document.location ='mailto:annahewi@me.com'">Contact</button></p>
       </div>
     </div>
   </div>
@@ -228,7 +228,6 @@ function myFunction() {
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
-</body>
-</html>
+
 
 <!-- Credit to https://epicbootstrap.com/snippets/footer-with-columns -->
