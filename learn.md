@@ -165,7 +165,7 @@ section::after {
   background-color: #555;
 }
 
-.title {
+.cardtitle {
   text-align: center; 
   font-size: 10px;
   font-weight: bold; 
@@ -204,7 +204,7 @@ function myFunction() {
   <div class="column">
     <div class="card">
     <i class="fa-solid fa-user-tie fa-sm">
-      <p class="title"><b>Seeking a Professional</b><p>
+      <p class="cardtitle"><b>Seeking a Professional</b><p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/professional.html';">More</button></p>
     </div>
@@ -213,7 +213,7 @@ function myFunction() {
   <div class="column">
     <div class="card">
     <i class="fa-solid fa-file-certificate fa-sm"></i>
-      <p class="title">Becoming a Therapist</p>
+      <p class="cardtitle">Becoming a Therapist</p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/therapist.html';">More</button></p>
     </div>
@@ -221,7 +221,7 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
-      <p class="title">Stress</p>
+      <p class="cardtitle">Stress</p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/stress.html';">More</button></p>
     </div>
@@ -229,7 +229,7 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
-      <p class="title">Insomnia</p>
+      <p class="cardtitle">Insomnia</p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/insomnia.html';">More</button></p>
     </div>
@@ -241,7 +241,7 @@ function myFunction() {
 <div class="row">
   <div class="column">
     <div class="card">
-      <p class="title">Anxiety</p>
+      <p class="cardtitle">Anxiety</p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/anxiety.html';">More</button></p>
     </div>
@@ -249,7 +249,7 @@ function myFunction() {
 
   <div class="column">
     <div class="card">
-      <p class="title">Depression</p>
+      <p class="cardtitle">Depression</p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/depression.html';">More</button></p>
     </div>
@@ -257,7 +257,7 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
-      <p class="title">Suicide</p>
+      <p class="cardtitle">Suicide</p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/suicide.html';">More</button></p>
     </div>
@@ -265,7 +265,7 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
-      <p class="title">Eating Disorders</p>
+      <p class="cardtitle">Eating Disorders</p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/eating-disorder.html';">More</button></p>
     </div>
