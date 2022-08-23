@@ -165,12 +165,6 @@ section::after {
   background-color: #555;
 }
 
-.title {
-  text-align: center; 
-  font-size: 10px;
-  font-weight: bold; 
-}
-
 </style>
 </head>
 <body>
@@ -196,15 +190,14 @@ function myFunction() {
 }
 </script>
 
-<heading>
  <h1 style="font-size:50px;">Learn</h1>
-</heading>
+
 
 <div class="row">
   <div class="column">
     <div class="card">
-    <i class="fa-solid fa-user-tie fa-2xl">
-      <p class="title"><b>Seeking a Professional</b><p>
+    <i class="fa-solid fa-user-tie"></i>
+      <p style="font-size:10px;"><b>Seeking a Professional</b><p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/professional.html';">More</button></p>
     </div>
@@ -212,8 +205,8 @@ function myFunction() {
 
   <div class="column">
     <div class="card">
-    <i class="fa-solid fa-file-certificate fa-2xl"></i>
-      <p class="title">Becoming a Therapist</p>
+    <i class="fa-solid fa-file-certificate"></i>
+      <h3>Becoming a Therapist</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/therapist.html';">More</button></p>
     </div>
@@ -221,7 +214,7 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
-      <p class="title">Stress</p>
+      <h3>Stress</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/stress.html';">More</button></p>
     </div>
@@ -229,19 +222,19 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
-      <p class="title">Insomnia</p>
+      <h3>Insomnia</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/insomnia.html';">More</button></p>
     </div>
   </div>
 </div>
 
-<br>
+<br></br>
 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p class="title">Anxiety</p>
+      <h3>Anxiety</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/anxiety.html';">More</button></p>
     </div>
@@ -249,7 +242,7 @@ function myFunction() {
 
   <div class="column">
     <div class="card">
-      <p class="title">Depression</p>
+      <h3>Depression</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/depression.html';">More</button></p>
     </div>
@@ -257,7 +250,7 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
-      <p class="title">Suicide</p>
+      <h3>Suicide</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/suicide.html';">More</button></p>
     </div>
@@ -265,7 +258,7 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
-      <p class="title">Eating Disorders</p>
+      <h3>Eating Disorders</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/eating-disorder.html';">More</button></p>
     </div>
@@ -280,7 +273,7 @@ function myFunction() {
         <div class="container">
             <div class="row justify-content-center">
                     <div class="col-sm-4 col-md-3 item">
-                        <p>About</p>
+                        <h3>About</h3>
                         <ul>
                             <li><a href="https://anchor-heart.github.io/owner.html">Owner</a></li>
                             <li><a href="#">What We Do</a></li>
@@ -288,14 +281,14 @@ function myFunction() {
                         </ul>
                     </div>
                     <div class="col-sm-4 col-md-3 item">
-                        <p>Join Us</p>
+                        <h3>Join Us</h3>
                         <ul>
                             <li><a href="https://anchor-heart.github.io/volunteer.html">Volunteer</a></li>
                             <li><a href="https://anchor-heart.github.io/client.html">Client</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-4 col-md-3 item">
-                        <p>Other</p>
+                        <h3>Other</h3>
                         <ul>
                             <li><a href="https://anchor-heart.github.io/terms.html">Terms & Conditions</a></li>
                             <li><a href="https://anchor-heart.github.io/message.html">Questions & Feedback</a></li>
