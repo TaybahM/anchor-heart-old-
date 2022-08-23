@@ -203,7 +203,7 @@ function myFunction() {
 <div class="row">
   <div class="column">
     <div class="card">
-    <i class="fa-solid fa-user-tie fa-sm">
+    <i class="fa-solid fa-user-tie fa-2xl">
       <p class="title"><b>Seeking a Professional</b><p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/professional.html';">More</button></p>
@@ -212,7 +212,7 @@ function myFunction() {
 
   <div class="column">
     <div class="card">
-    <i class="fa-solid fa-file-certificate fa-sm"></i>
+    <i class="fa-solid fa-file-certificate fa-2xl"></i>
       <p class="title">Becoming a Therapist</p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/therapist.html';">More</button></p>
@@ -280,7 +280,7 @@ function myFunction() {
         <div class="container">
             <div class="row justify-content-center">
                     <div class="col-sm-4 col-md-3 item">
-                        <h3>About</h3>
+                        <p>About</p>
                         <ul>
                             <li><a href="https://anchor-heart.github.io/owner.html">Owner</a></li>
                             <li><a href="#">What We Do</a></li>
@@ -288,14 +288,14 @@ function myFunction() {
                         </ul>
                     </div>
                     <div class="col-sm-4 col-md-3 item">
-                        <h3>Join Us<h3>
+                        <p>Join Us</p>
                         <ul>
                             <li><a href="https://anchor-heart.github.io/volunteer.html">Volunteer</a></li>
                             <li><a href="https://anchor-heart.github.io/client.html">Client</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-4 col-md-3 item">
-                        <h3>Other</h3>
+                        <p>Other</p>
                         <ul>
                             <li><a href="https://anchor-heart.github.io/terms.html">Terms & Conditions</a></li>
                             <li><a href="https://anchor-heart.github.io/message.html">Questions & Feedback</a></li>
