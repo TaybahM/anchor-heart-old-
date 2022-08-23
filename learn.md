@@ -196,7 +196,7 @@ function myFunction() {
 <div class="row">
   <div class="column">
     <div class="card">
-      <p style="font-size:10px;"><b>Seeking a Professional</b><p>
+      <p><b>Becoming a Therapist</b></p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/professional.html';">More</button></p>
     </div>
