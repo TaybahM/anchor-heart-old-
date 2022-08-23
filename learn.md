@@ -203,7 +203,7 @@ function myFunction() {
 <div class="row">
   <div class="column">
     <div class="card">
-    <i class="fa-solid fa-user-tie fa-sm">
+    <i class="fa-solid fa-user-tie">
       <p class="cardtitle"><b>Seeking a Professional</b><p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/professional.html';">More</button></p>
@@ -212,7 +212,7 @@ function myFunction() {
 
   <div class="column">
     <div class="card">
-    <i class="fa-solid fa-file-certificate fa-sm"></i>
+    <i class="fa-solid fa-file-certificate"></i>
       <p class="cardtitle">Becoming a Therapist</p>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/therapist.html';">More</button></p>
