@@ -130,7 +130,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Style the header */
+<!--style the header-->
 header {
   background-color: #666;
   padding: 30px;
@@ -148,7 +148,7 @@ nav {
   padding: 20px;
 }
 
-/*style the list in the footer*/
+<!--style the list in the footer-->
 nav2 {
   text-align: center;
   width: 500%;
