@@ -146,6 +146,10 @@ section::after {
   }
 }
 
+.button:hover {
+  background-color: #555;
+}
+
 </style>
 </head>
 <body>
@@ -172,7 +176,6 @@ function myFunction() {
 </script>
 
  <h1 style="font-size:50px;">Learn</h1>
-  </header>
 
 
 <div class="row">
@@ -180,7 +183,7 @@ function myFunction() {
     <div class="card">
       <h3>Seeking a Professional</h3>
       <p>Some text</p>
-      <p>Some text</p>
+      <p><button class="button" onclick= "document.location ='mailto:annahewi@me.com'">More</button></p>
     </div>
   </div>
 
