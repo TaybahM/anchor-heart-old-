@@ -1,5 +1,13 @@
 <html lang="en">
 <head>
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9741419733823699"
+     crossorigin="anonymous"></script>
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Untitled</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -9,50 +17,12 @@
 <meta name="author" content="Taybah Mohammad">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
 <style>
-
 * {
   box-sizing: border-box;
 }
-
-/* Float four columns side by side */
-.column {
-  float: left;
-  width: 25%;
-  padding: 0 10px;
-}
-
-/* Remove extra left and right margins, due to padding */
-.row {margin: 0 -5px;}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive columns */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-    display: block;
-    margin-bottom: 20px;
-  }
-}
-
-/* Style the counter cards */
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 16px;
-  text-align: center;
-  background-color: #f1f1f1;
-}
-
- body {
+  
+  body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -108,6 +78,62 @@
   }
 }
 
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  height: 300px; /* only for demonstration, should be removed */
+  background: #ccc;
+  padding: 20px;
+}
 
 /*style the list in the footer*/
 nav2 {
@@ -145,27 +171,11 @@ section::after {
     height: auto;
   }
 }
-
-
-.button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-}
-
-.button:hover {
-  background-color: #555;
-}
-
 </style>
 </head>
 <body>
+
+
 
 <div class="topnav" id="myTopnav">
   <a href="https://anchor-heart.github.io/index.html" class="active">Home</a>
@@ -187,85 +197,20 @@ function myFunction() {
   }
 }
 </script>
-
- <h1 style="font-size:50px;">Learn</h1>
-
-
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <h3>Seeking a Professional</h3>
-      <p>Some text</p>
-      <p><button class="button" onclick="window.location.href'https://anchor-heart.github.io/learn_pages/professional.html';">More</button></p>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <h3>Becoming a Therapist</h3>
-      <p>Some text</p>
-      <p><button class="button" onclick="window.location.href'https://anchor-heart.github.io/learn_pages/therapist.html';">More</button></p>
-    </div>
-  </div>
   
-  <div class="column">
-    <div class="card">
-      <h3>Stress</h3>
-      <p>Some text</p>
-      <p><button class="button" onclick="window.location.href'https://anchor-heart.github.io/learn_pages/stress.html';">More</button></p>
-    </div>
-  </div>
   
-  <div class="column">
-    <div class="card">
-      <h3>Insomnia</h3>
-      <p>Some text</p>
-      <p><button class="button" onclick="window.location.href'https://anchor-heart.github.io/learn_pages/insomnia.html';">More</button></p>
-    </div>
-  </div>
-</div>
+<header>
+ <h2>How to Deal With Thoughts of Suicide</h2>
+  </header>
+    
+  <article>
+    <p></p>
+  </article>
 
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <h3>Anxiety</h3>
-      <p>Some text</p>
-      <p><button class="button" onclick="window.location.href'https://anchor-heart.github.io/learn_pages/anxiety.html';">More</button></p>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <h3>Depression</h3>
-      <p>Some text</p>
-      <p><button class="button" onclick="window.location.href'https://anchor-heart.github.io/learn_pages/depression.html';">More</button></p>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
-      <h3>Suicide</h3>
-      <p>Some text</p>
-      <p><button class="button" onclick="window.location.href'https://anchor-heart.github.io/learn_pages/suicide.html';">More</button></p>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
-      <h3>Eating Disorders</h3>
-      <p>Some text</p>
-      <p>Some text</p>
-    </div>
-  </div>
-</div>
-
-</body>
-</html>
-
-<div class="footer-clean">
-    <footer>
-        <div class="container">
-            <div class="row justify-content-center">
+  <div class="footer-clean">
+        <footer>
+            <div class="container">
+                <div class="row justify-content-center">
                     <div class="col-sm-4 col-md-3 item">
                         <h3>About</h3>
                         <ul>
@@ -296,7 +241,8 @@ function myFunction() {
             </div>
         </footer>
     </div>
-    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
 
