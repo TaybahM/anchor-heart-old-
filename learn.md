@@ -171,15 +171,14 @@ function myFunction() {
 }
 </script>
 
-<div class="about-section">
-  <h1>Learn</h1>
-</div>
+ <h1 style="font-size:50px;">Learn</h1>
+  </header>
 
 
 <div class="row">
   <div class="column">
     <div class="card">
-      <h3>Card 1</h3>
+      <h3>Seeking a Professional</h3>
       <p>Some text</p>
       <p>Some text</p>
     </div>
@@ -187,7 +186,7 @@ function myFunction() {
 
   <div class="column">
     <div class="card">
-      <h3>Card 2</h3>
+      <h3>Becoming a Therapist</h3>
       <p>Some text</p>
       <p>Some text</p>
     </div>
@@ -195,7 +194,7 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
-      <h3>Card 3</h3>
+      <h3>Stress</h3>
       <p>Some text</p>
       <p>Some text</p>
     </div>
@@ -203,7 +202,41 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
-      <h3>Card 4</h3>
+      <h3>Insomnia</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <h3>Anxiety</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <h3>Depression</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h3>Suicide</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h3>Eating Disorders</h3>
       <p>Some text</p>
       <p>Some text</p>
     </div>
