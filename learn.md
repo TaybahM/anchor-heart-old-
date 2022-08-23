@@ -12,6 +12,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
+<!--fonts-->
+<script src="https://kit.fontawesome.com/ad53426853.js" crossorigin="anonymous"></script>
 <style>
 
 * {
@@ -194,6 +196,7 @@ function myFunction() {
 <div class="row">
   <div class="column">
     <div class="card">
+    <i class="fa-solid fa-user-tie"></i>
       <h3>Seeking a Professional</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/professional.html';">More</button></p>
@@ -202,6 +205,7 @@ function myFunction() {
 
   <div class="column">
     <div class="card">
+    <i class="fa-solid fa-file-certificate"></i>
       <h3>Becoming a Therapist</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/therapist.html';">More</button></p>
@@ -224,6 +228,8 @@ function myFunction() {
     </div>
   </div>
 </div>
+
+<br></br>
 
 <div class="row">
   <div class="column">
@@ -254,7 +260,7 @@ function myFunction() {
     <div class="card">
       <h3>Eating Disorders</h3>
       <p>Some text</p>
-      <p>Some text</p>
+      <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/eating-disorder.html';">More</button></p>
     </div>
   </div>
 </div>
