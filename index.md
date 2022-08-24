@@ -202,7 +202,7 @@ function myFunction() {
 <header>
  <h2>Welcome to</h2>
  <h1 style="font-size:50px;">Anchorheart</h1>
-  </header>
+</header>
     
   <article>
     <p>Anchoheart is a remote from home start up volunteer project. It’s a virtual support network that provides individualized one on one support. Our mission is to promote connection, community, end loneliness and isolation. Anchorheart support buddies are caring individuals that provide virtual non proffesional individualized emotional support and companionship to clients. </p>
