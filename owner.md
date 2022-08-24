@@ -163,9 +163,9 @@ function myFunction() {
 }
 </script>
 
-<div class="about-section">
+<header>
   <h1>About the Owner</h1>
-</div>
+</header>
 
 <div class="row">
   <div class="column">
@@ -181,7 +181,7 @@ function myFunction() {
   <div class="text">
     <div class="card">
      <div class="container">
-        <h4>&ensp;</h4>
+        <p style="font-size:10px;">&ensp;</p>
         <p class="title">Hello!</p>
         <p>I’m Anna, I’m 36 years old and I live in Maryland. I have been through a lot in my life and I am a very caring person. I want to give back and offer support to those who need it. I started this project because I believe loneliness and isolation are the biggest pandemic we face as human beings. I want to create a sense of community, connection and support.</p> 
 

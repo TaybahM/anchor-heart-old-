@@ -104,7 +104,7 @@ function myFunction() {
 
 
 <header>
-<h2>Let's chat</h2>
+<h1 align="center">Let's chat</h1>
 </header>
 
 <form action="//submit.form" id="ContactUs100" method="post" onsubmit="return ValidateForm(this);">
