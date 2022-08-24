@@ -77,6 +77,10 @@ html {
   box-sizing: inherit;
 }
 
+.center {
+  text-align: center;
+}
+
 </style>
 </head>
 <body>
@@ -104,7 +108,7 @@ function myFunction() {
 
 
 <header>
-<h1 align="center">Let's chat</h1>
+<h1 class="center" style="font-size:50px;">Let's chat</h1>
 </header>
 
 <form action="//submit.form" id="ContactUs100" method="post" onsubmit="return ValidateForm(this);">

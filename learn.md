@@ -165,6 +165,10 @@ section::after {
   background-color: #555;
 }
 
+.center {
+  text-align: center;
+}
+
 </style>
 </head>
 <body>
@@ -191,7 +195,7 @@ function myFunction() {
 </script>
 
 <header>
- <h1 style="font-size:50px;">Learn</h1>
+ <h1 class="center" style="font-size:50px;">Learn</h1>
 </header>
 
 <div class="row">
