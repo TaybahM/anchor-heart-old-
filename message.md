@@ -102,10 +102,11 @@ function myFunction() {
 }
 </script>
 
-<div>
-  <h4>&ensp;</h4>
+
+<header>
 <h2>Let's chat</h2>
-</div>
+</header>
+
 <form action="//submit.form" id="ContactUs100" method="post" onsubmit="return ValidateForm(this);">
 <script type="text/javascript">
 function ValidateForm(frm) {
