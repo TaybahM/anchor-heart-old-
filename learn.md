@@ -190,13 +190,15 @@ function myFunction() {
 }
 </script>
 
+h
  <h1 style="font-size:50px;">Learn</h1>
 
 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p><b>Becoming a Therapist</b></p>
+      <i class="fa-solid fa-user-tie">
+      <h3><b>Seeking a Professional</b></h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/professional.html';">More</button></p>
     </div>
@@ -204,6 +206,7 @@ function myFunction() {
 
   <div class="column">
     <div class="card">
+      <i class="fa-solid fa-file-certificate"></i>
       <h3>Becoming a Therapist</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/therapist.html';">More</button></p>
@@ -212,6 +215,7 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
+      <i class="fa-solid fa-face-downcast-sweat"></i>
       <h3>Stress</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/stress.html';">More</button></p>
@@ -220,6 +224,7 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
+      <i class="fa-solid fa-moon"></i>
       <h3>Insomnia</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/insomnia.html';">More</button></p>
@@ -232,6 +237,7 @@ function myFunction() {
 <div class="row">
   <div class="column">
     <div class="card">
+      <i class="fa-solid fa-head-side-brain"></i>
       <h3>Anxiety</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/anxiety.html';">More</button></p>
@@ -240,6 +246,7 @@ function myFunction() {
 
   <div class="column">
     <div class="card">
+      <i class="fa-solid fa-cloud-hail"></i>
       <h3>Depression</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/depression.html';">More</button></p>
@@ -248,6 +255,7 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
+      <i class="fa-solid fa-hand-heart"></i>
       <h3>Suicide</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/suicide.html';">More</button></p>
@@ -256,6 +264,7 @@ function myFunction() {
   
   <div class="column">
     <div class="card">
+      <i class="fa-solid fa-carrot"></i>
       <h3>Eating Disorders</h3>
       <p>Some text</p>
       <p><button class="button" onclick="window.location.href='https://anchor-heart.github.io/learn_pages/eating-disorder.html';">More</button></p>
